@@ -22,9 +22,10 @@
 ## Create Python .py files
 
 * Create the 2 .py files described at the following links in your repository.
-  * hello.py: https://docs.microsoft.com/en-us/learn/modules/intro-to-python/7-exercise-reading-input
+  * hello.py: https://docs.microsoft.com/en-us/learn/modules/intro-to-python/7-exercise-reading-input (old link, see line below)
+  * hello.py: https://docs.microsoft.com/en-us/learn/modules/intro-to-python/4-variables
   * calc.py: https://docs.microsoft.com/en-us/learn/modules/intro-to-python/8-exercise-build-a-calculator (old link, see line below)
-  * calc.py https://docs.microsoft.com/en-us/learn/modules/intro-to-python/7-exercise-input
+  * calc.py: https://docs.microsoft.com/en-us/learn/modules/intro-to-python/7-exercise-input
 * When you're done make sure you save your files.
 
 ## Push your updated file to your GitHub repository
